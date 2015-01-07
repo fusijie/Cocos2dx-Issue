@@ -6,6 +6,10 @@
 
 `Issue:` the editbox is invalid to key anything once you pushScene and popScene on the Mac platform.
 
+the error log is 
+
+>NSSecureTextFieldCell detected a field editor ((null)) that is not a NSTextView subclass designed to work with the cell. Ignoring...
+
 `platform:` Mac
 
 `reproduce:`
