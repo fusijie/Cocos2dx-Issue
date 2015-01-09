@@ -3,7 +3,7 @@
 
 `version:` v3.3
 
-`Issue:` applicationDidEnterBackground() not called on the WP8 when press windows key. And applicationWillEnterForeground() not called on the WP8 when return to the game.
+`Issue:` applicationDidEnterBackground() don't called on the WP8 when press windows key. And applicationWillEnterForeground() don't called on the WP8 when return to the game.
 
 `platform:` WP8
 
