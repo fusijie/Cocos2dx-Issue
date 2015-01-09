@@ -4,7 +4,7 @@
 
 `version:` v3.3
 
-`Issue:` if dispatch the same event on the listener's event callback, the programe will crash.
+`Issue:` if dispatch the same event on the listener's event callback, the program will crash.
 
 `reproduce:`
 
